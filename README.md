@@ -1,11 +1,5 @@
 NILE
 
-> Frontend-> React JS
-
-> Backend-> Node JS & Express JS
-
-> Database-> MongoDB
-
 ## Installation process
 1. #### clone the repo using this command
     ```bash
