@@ -1,4 +1,4 @@
-# mern-ecommerce
+NILE
 
 > Frontend-> React JS
 
@@ -79,6 +79,3 @@
     7. admin can create categories
     8. admin can view ordered products
     9. admin can change the status of a product (processing, shipped, delivered, etc.)
-
-6. <b>Deployed on</br> https://ecommerce-ak.herokuapp.com/ 
-7. raise a star to support me
